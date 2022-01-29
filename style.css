@@ -24,7 +24,7 @@
     --normal-font-size: 0.938rem;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 720px) {
     :root {
         --big-font-size: 3.5rem;
         --h2-font-size: 2rem;
