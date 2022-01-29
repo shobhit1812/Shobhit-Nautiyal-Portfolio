@@ -168,7 +168,7 @@ textarea {
     font-weight: var(--font-semi);
 }
 
-@media (max-width: 1024px) and (min-width:720px) {
+@media (max-width: 1024px) and (min-width:786px) {
     .nav__menu {
         position: fixed;
         top: var(--header-height);
