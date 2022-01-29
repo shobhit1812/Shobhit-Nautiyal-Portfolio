@@ -8,14 +8,14 @@
     --font-semi: 600;
 }
 
-/*===== Colores =====*/
+/*===== Colors =====*/
 :root {
     --first-color: #4f81f3;
     --second-color: #0E2431;
     --third-color: #ffffff;
 }
 
-/*===== Fuente y tipografia =====*/
+/*===== Font and Typography =====*/
 :root {
     --body-font: 'Poppins', sans-serif;
     --big-font-size: 2rem;
@@ -32,7 +32,7 @@
     }
 }
 
-/*===== Margenes =====*/
+/*===== Margin =====*/
 :root {
     --mb-1: 0.5rem;
     --mb-2: 1rem;
@@ -168,10 +168,7 @@ textarea {
     font-weight: var(--font-semi);
 }
 
-
-
-
-@media (max-width: 768px) and (min-width:576px) {
+@media (max-width: 1024px) and (min-width:720px) {
     .nav__menu {
         position: fixed;
         top: var(--header-height);
@@ -486,7 +483,7 @@ textarea {
 }
 
 .skills__ux {
-    width: 85%;
+    width: 10%;
 }
 
 .skills__python {
@@ -497,7 +494,6 @@ textarea {
     width: 500px;
     border-radius: .5rem;
 }
-
 
 /* ===== WORK =====*/
 .work__container {
