@@ -176,13 +176,13 @@ textarea {
         width: 80%;
         height: 100vh;
         padding: 2rem;
-        background-color: var(--third-color);
+        background-color: rgba(0, 0, 0, 0.945);
         transition: .5s;
     }
 
     .nav__link {
         position: relative;
-        color: #0E2431 !important;
+        color: rgba(253, 253, 253, 0.925) !important;
     }
 
 
@@ -668,7 +668,7 @@ textarea {
     }
 
     .nav__link {
-        color: var(--second-color);
+        color: rgba(253, 253, 253, 0.925);
     }
 
     .home p {
@@ -749,7 +749,7 @@ textarea {
         width: 80%;
         height: 100vh;
         padding: 2rem;
-        background-color: var(--third-color) !important;
+        background-color: rgba(0, 0, 0, 0.945) !important;
         transition: .5s;
     }
 
@@ -760,7 +760,7 @@ textarea {
 
     .nav__link {
         position: relative;
-        color: var(--second-color) !important;
+        color: rgba(253, 253, 253, 0.925) !important;
     }
 
     .nav__link:hover {
@@ -876,7 +876,7 @@ textarea {
         width: 80%;
         height: 100vh;
         padding: 2rem;
-        background-color: var(--third-color);
+        background-color: rgba(0, 0, 0, 0.945);
         transition: .5s;
     }
 
@@ -887,7 +887,7 @@ textarea {
 
     .nav__link {
         position: relative;
-        color: var(--second-color) !important;
+        color: rgba(253, 253, 253, 0.925) !important;
     }
 
     .nav__link:hover {
